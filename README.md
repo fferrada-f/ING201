@@ -2,4 +2,8 @@
 
 Aquí podrán encontrar el contenido para poder seguir las clases o trabajar los ejercicios.
 
+Recuerden que para poder trabajar/visualizar los notebooks, deben ingresar a google colab y desde el apartado "Github" pegar el url de este repositorio:
+
+
+
 Saludos!
