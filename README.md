@@ -7,4 +7,5 @@ Recuerden que para poder trabajar/visualizar los notebooks, deben ingresar a goo
 https://github.com/fferrada-f/ING201
 
 Cualquier consulta a fferrada@alumnos.uai.cl
+
 Saludos!
